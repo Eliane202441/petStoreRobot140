@@ -1,0 +1,3 @@
+Robot realmente é um framework
+é um organizador facilitadopr geral de aultomação (RPA = robotic Automation Process
+ automação robotica de processo ) ou de teste 
